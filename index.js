@@ -65,3 +65,8 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log("Listening to the port", port);
 });
+
+
+// git remote add heroku
+// git remote rm heroku 
+// https://stormy-atoll-97377.herokuapp.com/
